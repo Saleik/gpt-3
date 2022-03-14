@@ -1,10 +1,10 @@
-<div align="center" id="top"> 
+<!-- <div align="center" id="top">
   <img src="./.github/app.gif" alt="Gpt 3" />
 
 &#xa0;
 
-  <!-- <a href="https://gpt3.netlify.app">Demo</a> -->
-</div>
+  <a href="https://gpt3.netlify.app">Demo</a>
+</div> -->
 
 <h1 align="center">Gpt 3</h1>
 
@@ -39,7 +39,6 @@
   <a href="#white_check_mark-requirements">Requirements</a> &#xa0; | &#xa0;
   <a href="#checkered_flag-starting">Starting</a> &#xa0; | &#xa0;
   <a href="#memo-license">License</a> &#xa0; | &#xa0;
-  <a href="https://github.com/Saleik" target="_blank">Author</a>
 </p>
 
 <br>
@@ -70,10 +69,10 @@ $ git clone https://github.com/Saleik/gpt-3
 $ cd gpt-3
 
 # Install dependencies
-$ yarn
+$ yarn install
 
 # Run the project
-$ yarn start
+$ yarn dev
 
 # The server will initialize in the <http://localhost:3000>
 ```
