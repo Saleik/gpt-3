@@ -54,6 +54,7 @@ The following tools were used in this project:
 
 - [React](https://pt-br.reactjs.org/)
 - [TypeScript](https://www.typescriptlang.org/)
+- [ViteJS](https://vitejs.dev/)
 
 ## :white_check_mark: Requirements
 
