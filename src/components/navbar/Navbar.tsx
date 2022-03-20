@@ -14,10 +14,10 @@ const Menu = () => (
 			<a href='#possibility'>Open AI</a>
 		</p>
 		<p>
-			<a href='#features'></a>Case Studies
+			<a href='#features'>Case Studies</a>
 		</p>
 		<p>
-			<a href='#blog'></a>Library
+			<a href='#blog'>Library</a>
 		</p>
 	</>
 );
