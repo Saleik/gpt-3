@@ -1,9 +1,5 @@
-<!-- <div align="center" id="top">
-  <img src="./.github/app.gif" alt="Gpt 3" />
-
-&#xa0;
-
-  <a href="https://gpt3.netlify.app">Demo</a>
+<div align="center" id="top">
+  <a href="https://quizzical-rosalind-0adcfd.netlify.app/">Demo</a>
 </div> -->
 
 <h1 align="center">Gpt 3</h1>
